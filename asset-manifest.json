@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/software_languages/static/css/main.f67e0c7c.css",
+    "main.js": "/software_languages/static/js/main.676e69f3.js",
+    "static/media/php.png": "/software_languages/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/software_languages/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/css.png": "/software_languages/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/software_languages/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/software_languages/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/ts.png": "/software_languages/static/media/ts.1a203e65baa39b0b972d.png",
+    "static/media/java.png": "/software_languages/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/software_languages/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "index.html": "/software_languages/index.html",
+    "main.f67e0c7c.css.map": "/software_languages/static/css/main.f67e0c7c.css.map",
+    "main.676e69f3.js.map": "/software_languages/static/js/main.676e69f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f67e0c7c.css",
+    "static/js/main.676e69f3.js"
+  ]
+}
